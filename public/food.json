@@ -1,0 +1,32 @@
+[
+  {
+    "image": "https://i.ibb.co/Y3gbTqk/paython.jpg",
+    "name": "Introduction to Python Programming",
+    "description": "Learn the fundamentals of Python programming language, including data types, control structures, functions, and modules. Suitable for beginners, this course provides hands-on exercises and projects to reinforce learning.",
+    "price": "$49.99"
+  },
+  {
+    "image": "https://i.ibb.co/LxQ0gYt/bootcamp.jpg",
+    "name": "Web Development Bootcamp",
+    "description": "Become a proficient web developer by mastering HTML, CSS, JavaScript, and popular frameworks like React and Node.js. This comprehensive bootcamp covers both frontend and backend development.",
+    "price": "$99.99"
+  },
+  {
+    "image": "https://i.ibb.co/j3f6pnn/datascience.jpg",
+    "name": "Data Science with Python",
+    "description": "Unlock the power of data analysis and machine learning using Python. From data wrangling and visualization to building predictive models, this course equips you with essential skills for the data-driven world.",
+    "price": "$79.99"
+  },
+  {
+    "image": "https://i.ibb.co/JspJynb/machin-learning.jpg",
+    "name": "Introduction to Machine Learning",
+    "description": "Discover the core concepts of machine learning algorithms and techniques. Covering supervised and unsupervised learning, this course provides a solid foundation for those interested in AI and data science.",
+    "price": "$69.99"
+  },
+  {
+    "image": "https://i.ibb.co/kczDf9Y/mobileapp.jpg",
+    "name": "Mobile App Development with Flutter",
+    "description": "Build cross-platform mobile apps with Flutter and Dart. Learn how to design beautiful user interfaces and implement functionality for iOS and Android devices using Google's powerful framework.",
+    "price": "$89.99"
+  }
+]
